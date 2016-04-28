@@ -1,0 +1,31 @@
+{
+  "name": "kraken",
+  "version": "1.0.0",
+  "homepage" : "https://github.com/jonathandion/kraken",
+  "description": "Node module to optimize all your images with the powerful Kraken.io API",
+  "main": "index.js",
+  "keywords" : ["kraken", "Kraken.io","js","images","optimize images"],
+  "person" : {
+    "name" : "Jonathan Dion-Alary"
+    ,"email" : "jonathandionalary@gmail.com"
+    ,"url" : "http://www.jonathandion.com/"
+  },
+  "bugs" : {
+     "url" : "https://github.com/jonathandion/kraken/issues",
+     "email" : "jonathandionalary@gmail.com"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+     "type": "git",
+     "url": "https://github.com/jonathandion/kraken.git"
+   },
+  "author": "jonathandion",
+  "license": "MIT",
+  "dependencies": {
+    "download": "^4.4.3",
+    "kraken": "^0.3.3",
+    "node-dir": "^0.1.11"
+  }
+}
