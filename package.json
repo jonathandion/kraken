@@ -1,5 +1,5 @@
 {
-  "name": "node-kraken",
+  "name": "kraken-images",
   "version": "1.0.0",
   "homepage" : "https://github.com/jonathandion/kraken",
   "description": "Node module to optimize all your images locally with the powerful Kraken.io API",
